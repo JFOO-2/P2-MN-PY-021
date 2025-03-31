@@ -9,6 +9,9 @@
 
 1️⃣ `Selecciona la ecuación:` El usuario debe elegir entre dos opciones de ecuaciones disponibles, cada una con su respectiva forma matemática.
 
+![I-0](./imgCapturas/i-0.png)
+
+
 ![I-1](./imgCapturas/I-1.png)
 
 2️⃣ `Define los coeficientes:` Una vez seleccionada la ecuación, el usuario proporciona los valores de los coeficientes necesarios.
